@@ -1,6 +1,6 @@
 ### 1 . Example overview  
 
-| Example | Size&nbsp;(tokens) | Under‑the‑hood model / system |
+| Ex. | Tokens | Model/System |
 |---------|-------------------|-------------------------------|
 | **A** | **16 192** | *ChatGPT Deep Research* |
 | **B** | **4 956** | *Manus AI* |
