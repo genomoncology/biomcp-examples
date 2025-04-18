@@ -63,3 +63,13 @@ Each judge independently built its own rubric, scored the five answers, highligh
 
 Pull requests with fresh examples, alternate judging frameworks, or new biomedical questions are welcome. 🚀
 
+### Note: YouTube Video Run is Different
+
+I recorded a video of this same question with the same prompt, but given
+the stochastic nature of LLMs, the response is different. 
+
+You can watch the video here:
+[https://youtu.be/tBGG53O-7Hg](https://youtu.be/tBGG53O-7Hg)
+
+And you can read the response of that video run here:
+[./biomcp_doc_2/example_e_v2.md](./biomcp_doc_2/example_e_v2.md)
