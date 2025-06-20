@@ -1,6 +1,8 @@
 # Emerging Treatment Strategies for Head & Neck Cancer  
 *BioMCP‑Examples • Researcher HNSCC*
 
+_Note: We haven't done an updated analysis with the new version of BioMCP which has embedded thinking and only supports search and fetch, yet._
+
 ---
 
 ## Original Question  
@@ -17,9 +19,11 @@
 | **C** | Gemini Deep Research | [`example_c.md`](./example_c.md) |
 | **D** | Claude Deep Research | [`example_d.md`](./example_d.md) |
 | **E** | Claude 3.7 + **BioMCP** + Sequential‑Thinking + Web Search | [`example_e.md`](./example_e.md) |
+| **F** | Claude 4.0 + **BioMCP 0.3** + Web Search | [`example_f.md`](./example_f.md) |
 
 > **Background docs for Manus AI** live in  
 > [`manus_ai_background/`](./manus_ai_background/) – 20 + source files it cited.
+
 
 ---
 
